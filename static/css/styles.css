@@ -56,3 +56,16 @@ canvas#novaChart {
     align-items: center;
     height: 100vh; /* Full viewport height */
 }
+h1 {
+    font-family: 'Arial', sans-serif; /* You can replace with a custom web font */
+    font-size: 3em; /* Increase the size */
+    background: linear-gradient(45deg, #00ff00, #00ccff); /* Green to light blue gradient */
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; /* For gradient text color */
+    text-transform: uppercase; /* Makes text uppercase */
+    letter-spacing: 5px; /* Add letter spacing */
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); /* Add text shadow */
+    animation: pulse 4s infinite; /* Slower pulse with a 4s duration */
+    margin-bottom: 20px;
+}
+

@@ -63,8 +63,19 @@ def add_new_ingredient(name, group):        #adds a new ingredient to the databa
 def classification(ingredient_names):       #recieves a list and classifys it, returns nova group and a reason
     nova_groups = get_nova_groups(ingredient_names)
     nova_classification = max(nova_groups)
-
+    if check_for_twos(nova_groups) == 3 and nova_classification < 3:
+        nova_classification = 3
     return nova_classification
+
+def check_for_twos(numbers):
+    # Count how many 2s are in the list
+    count_of_twos = numbers.count(2)
+    
+    # If there are more than one occurrence of 2, return 3
+    if count_of_twos > 1:
+        return 3
+    else:
+        return 0
 
 def get_nova_groups(ingredient_names):
     filename = "ingredients_index.json"
@@ -114,7 +125,7 @@ def get_ingredient_suggestions(string):
         # Iterate through all the ingredients in the database
         for ingredient in ingredients:
             # Check if the ingredient name starts with the given string (case-insensitive)
-            if ingredient["name"].lower().startswith(string.lower()):
+            if string.lower() in ingredient["name"].lower():
                 suggestions.append(ingredient["name"])
     else:
         print("Ingredient database not found.")
