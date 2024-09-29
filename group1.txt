@@ -1,0 +1,393 @@
+apple
+banana
+orange
+pear
+kiwi
+mango
+papaya
+pineapple
+grape
+watermelon
+blueberry
+strawberry
+raspberry
+blackberry
+peach
+plum
+apricot
+cherry
+coconut
+date
+fig
+pomegranate
+persimmon
+guava
+lychee
+avocado
+lemon
+lime
+grapefruit
+tangerine
+clementine
+quince
+passion fruit
+starfruit
+dragon fruit
+jackfruit
+durian
+tomato
+cucumber
+lettuce
+spinach
+kale
+chard
+arugula
+broccoli
+cauliflower
+zucchini
+squash
+pumpkin
+carrot
+beet
+radish
+turnip
+parsnip
+sweet potato
+potato
+onion
+garlic
+shallot
+leek
+celery
+bell pepper
+jalapeno
+habanero
+poblano
+eggplant
+brussels sprouts
+green beans
+peas
+corn
+mushroom
+asparagus
+artichoke
+cabbage
+bok choy
+fennel
+okra
+watercress
+basil
+cilantro
+parsley
+mint
+oregano
+thyme
+rosemary
+sage
+tarragon
+dill
+bay leaf
+chive
+ginger
+turmeric
+almond
+walnut
+cashew
+pecan
+hazelnut
+peanut
+pistachio
+sunflower seeds
+pumpkin seeds
+chia seeds
+flax seeds
+hemp seeds
+sesame seeds
+brown rice
+wild rice
+quinoa
+barley
+millet
+buckwheat
+bulgur
+spelt
+farro
+oats
+cornmeal
+rye
+wheat berries
+couscous
+lentils
+chickpeas
+black beans
+kidney beans
+pinto beans
+navy beans
+white beans
+cannellini beans
+adzuki beans
+mung beans
+soybeans
+tofu
+tempeh
+edamame
+peanut butter
+chicken breast
+turkey breast
+duck breast
+eggs
+whole milk
+yogurt
+salmon
+tuna
+cod
+shrimp
+scallops
+mussels
+crab
+lobster
+sardines
+trout
+haddock
+tilapia
+mackerel
+clams
+oysters
+lamb
+pork
+beef
+venison
+bison
+quail
+pheasant
+rabbit
+honey
+maple syrup
+coconut water
+spring water
+mineral water
+herbal tea
+coffee
+cocoa
+goji berries
+dried apricots
+raisins
+prunes
+cranberries
+figs
+cantaloupe
+honeydew melon
+elderberry
+mulberries
+nectarines
+blood orange
+yuzu
+tamarind
+olive oil
+coconut oil
+butter
+ghee
+lard
+duck fat
+palm oil
+sea salt
+rock salt
+table salt
+peppercorn
+cinnamon stick
+clove
+cardamom
+nutmeg
+allspice
+anise
+saffron
+vanilla bean
+lemongrass
+turmeric root
+galangal
+wasabi
+horseradish
+mustard seeds
+fenugreek
+tamarind paste
+miso
+sauerkraut
+kimchi
+pickles
+vinegar
+soy sauce
+sesame oil
+tahini
+cacao nibs
+dark chocolate
+whole grain bread
+spelt bread
+sourdough bread
+rye bread
+pita bread
+corn tortillas
+polenta
+fresh pasta
+dumplings
+mozzarella cheese
+ricotta cheese
+feta cheese
+goat cheese
+parmesan
+provolone
+swiss cheese
+gouda
+cheddar
+brie
+camembert
+gruyere
+halloumi
+blue cheese
+cottage cheese
+cream cheese
+sour cream
+buttermilk
+kefir
+kombucha
+plain yogurt
+goat milk
+sheep milk
+buffalo milk
+camel milk
+quail eggs
+duck eggs
+goose eggs
+chicken thighs
+lamb chops
+pork loin
+beef steak
+veal
+goose liver
+pâté
+bone broth
+vegetable broth
+stock
+lamb shank
+beef ribs
+pork ribs
+chicken wings
+turkey legs
+duck confit
+rabbit stew
+venison stew
+bison burgers
+quinoa flour
+buckwheat flour
+spelt flour
+coconut flour
+almond flour
+chickpea flour
+cassava flour
+sweet potato flour
+rice flour
+tapioca flour
+potato starch
+corn starch
+arrowroot powder
+gelatin
+agar-agar
+psyllium husk
+whey protein
+collagen powder
+spirulina
+chlorella
+wheatgrass
+barley grass
+matcha
+green tea leaves
+black tea leaves
+oolong tea leaves
+white tea leaves
+dandelion root
+hibiscus flowers
+rose petals
+lavender buds
+chamomile flowers
+elderflower
+eucalyptus leaves
+sage leaves
+rosemary sprigs
+thyme sprigs
+oregano sprigs
+basil sprigs
+tarragon sprigs
+lemon balm
+catnip
+peppermint leaves
+spearmint leaves
+watercress
+arugula
+baby spinach
+kale
+collard greens
+turnip greens
+mustard greens
+beet greens
+chard
+bok choy
+napa cabbage
+savoy cabbage
+green cabbage
+red cabbage
+cauliflower florets
+broccoli rabe
+broccolini
+baby corn
+microgreens
+alfalfa sprouts
+bean sprouts
+lentil sprouts
+radish sprouts
+sunflower sprouts
+wheat sprouts
+pea shoots
+snap peas
+snow peas
+sugar snap peas
+jicama
+celeriac
+rutabaga
+kohlrabi
+sunchokes
+water chestnuts
+lotus root
+bamboo shoots
+ginger root
+turmeric root
+horseradish root
+wasabi root
+yam
+yucca
+taro root
+lotus seeds
+watermelon seeds
+pumpkin flesh
+acorn squash
+butternut squash
+spaghetti squash
+delicata squash
+carnival squash
+turban squash
+blue hubbard squash
+kabocha squash
+sugar pumpkin
+winter melon
+bitter melon
+gourds
+long beans
+snake beans
+nasturtium
+marigold
+viola
+shiso leaves
+lime leaves
+curry leaves
+fenugreek leaves
+moringa leaves
+papalo
+epazote

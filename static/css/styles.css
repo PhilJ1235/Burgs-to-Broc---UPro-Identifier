@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+label {
+    font-weight: bold;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+li {
+    padding: 5px;
+    background-color: #f0f0f0;
+    margin-bottom: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+button {
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #0056b3;
+}
+.remove-button {
+    background-color: #dc3545;
+}
+.remove-button:hover {
+    background-color: #c82333;
+}
+.input-group {
+    margin-bottom: 15px;
+}
+.action-buttons {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 15px;
+}
+/* Set the canvas width and height using CSS */
+canvas#novaChart {
+    width: 400px !important;
+    height: 400px !important;
+    max-width: 100%;
+}
+
+/* Center the chart in the middle of the screen */
+.chart-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Full viewport height */
+}

@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="static/css/styles.css">
+    <title>Dynamic Ingredient and Food List</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="static/js/script.js"></script>
+</head>
+<body>
+
+    <h1>Food Processing Level Classifier</h1>
+    <p>Use this tool to identify how processed the foods you eat are. We use the NOVA classification system which has 4 levels:</p>
+    <ul>
+        <li>1 - Unprocessed or minimally processed food</li>
+        <li>2 - Processed Culinary Ingredients</li>
+        <li>3 - Processed Food</li>
+        <li>4 - Ultra-processed food</li>
+    </ul>
+
+    <h2>Create a food:</h2>
+    <p>Use the area below to add ingredients and create a food to understand its level of processing.
+        Once all the ingredients are added, give your food a name and add it to your food list.
+    </p>
+
+
+    <div class="input-group">
+        <label for="new_ingredient">Add Ingredient:</label>
+        <input list="ingredient_suggestions" id="new_ingredient" placeholder="Enter ingredient name">
+        <datalist id="ingredient_suggestions"></datalist>
+        <button type="button" id="add_ingredient">Add Ingredient</button>
+    </div>
+
+    <h3>Current Ingredients:</h3>
+    <ul id="ingredient_list"></ul>
+
+    <div class="input-group"></div>
+        <label for="new_food">Food Name:</label>
+        <input type="text" id="new_food" placeholder="Enter food name">
+        <button type="button" id="add_food">Add Food</button>
+    </div>
+
+
+    <!-- Add Food Section -->
+    <h2>Your Food List:</h2>
+    
+    
+
+    <!-- Food List with Remove Buttons -->
+    <ul id="food_list"></ul>
+
+    <h2 id="chart_heading" style="display: none;">NOVA Group Distribution in your foods:</h2>
+
+    <canvas id="novaChart" width="50" height="50"></canvas>
+
+</body>
+</html>

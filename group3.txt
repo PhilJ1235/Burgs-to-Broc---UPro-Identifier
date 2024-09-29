@@ -1,0 +1,73 @@
+canned kidney beans
+canned black beans
+canned chickpeas
+canned pinto beans
+canned navy beans
+canned cannellini beans
+canned peas
+canned carrots
+canned corn
+canned green beans
+canned spinach
+canned tomatoes
+canned beets
+canned artichokes
+canned asparagus
+pickled cucumbers
+pickled beets
+pickled onions
+pickled carrots
+pickled radishes
+canned sardines
+canned tuna
+canned salmon
+tomato extract
+tomato paste
+tomato concentrate
+salted beef
+salted pork
+salted lamb
+salted fish
+dried beef
+dried pork
+dried lamb
+dried fish
+smoked salmon
+smoked trout
+smoked mackerel
+cured ham
+cured salami
+cured chorizo
+salted cod
+salted herring
+dried cod
+dried herring
+fruits in sugar syrup
+canned peaches in syrup
+canned pears in syrup
+canned cherries in syrup
+canned pineapple in syrup
+beef jerky
+fresh mozzarella
+fresh cheddar
+fresh ricotta
+fresh feta
+fresh parmesan
+fresh gouda
+fresh brie
+fresh camembert
+bacon
+fresh bread made of wheat flour, yeast, water, and salt
+salted almonds
+salted peanuts
+salted cashews
+salted sunflower seeds
+salted pumpkin seeds
+sugared almonds
+sugared peanuts
+sugared cashews
+sugared sunflower seeds
+sugared pumpkin seeds
+beer
+alcoholic cider
+wine

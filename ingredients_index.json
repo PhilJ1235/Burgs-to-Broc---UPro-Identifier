@@ -1,0 +1,2522 @@
+[
+    {
+        "name": "olive oil",
+        "nova_group": 2
+    },
+    {
+        "name": "butter",
+        "nova_group": 2
+    },
+    {
+        "name": "sunflower oil",
+        "nova_group": 2
+    },
+    {
+        "name": "rapeseed oil",
+        "nova_group": 2
+    },
+    {
+        "name": "vegetable oil",
+        "nova_group": 2
+    },
+    {
+        "name": "sugar",
+        "nova_group": 2
+    },
+    {
+        "name": "honey",
+        "nova_group": 2
+    },
+    {
+        "name": "maple syrup",
+        "nova_group": 2
+    },
+    {
+        "name": "corn starch",
+        "nova_group": 2
+    },
+    {
+        "name": "lard",
+        "nova_group": 2
+    },
+    {
+        "name": "coconut fat",
+        "nova_group": 2
+    },
+    {
+        "name": "coconut oil",
+        "nova_group": 2
+    },
+    {
+        "name": "salt",
+        "nova_group": 2
+    },
+    {
+        "name": "palm oil",
+        "nova_group": 2
+    },
+    {
+        "name": "molasses",
+        "nova_group": 2
+    },
+    {
+        "name": "peanut oil",
+        "nova_group": 2
+    },
+    {
+        "name": "sesame oil",
+        "nova_group": 2
+    },
+    {
+        "name": "tomato",
+        "nova_group": 1
+    },
+    {
+        "name": "cumcumber",
+        "nova_group": 1
+    },
+    {
+        "name": "brocolli",
+        "nova_group": 1
+    },
+    {
+        "name": "banana",
+        "nova_group": 1
+    },
+    {
+        "name": "apple",
+        "nova_group": 1
+    },
+    {
+        "name": "orange",
+        "nova_group": 1
+    },
+    {
+        "name": "pear",
+        "nova_group": 1
+    },
+    {
+        "name": "onion",
+        "nova_group": 1
+    },
+    {
+        "name": "garlic",
+        "nova_group": 1
+    },
+    {
+        "name": "pepper",
+        "nova_group": 1
+    },
+    {
+        "name": "bell pepper",
+        "nova_group": 1
+    },
+    {
+        "name": "oats",
+        "nova_group": 1
+    },
+    {
+        "name": "potato",
+        "nova_group": 1
+    },
+    {
+        "name": "carrot",
+        "nova_group": 1
+    },
+    {
+        "name": "eggs",
+        "nova_group": 1
+    },
+    {
+        "name": "lentils",
+        "nova_group": 1
+    },
+    {
+        "name": "chickpeas",
+        "nova_group": 1
+    },
+    {
+        "name": "beans",
+        "nova_group": 1
+    },
+    {
+        "name": "peanut",
+        "nova_group": 1
+    },
+    {
+        "name": "kiwi",
+        "nova_group": 1
+    },
+    {
+        "name": "mango",
+        "nova_group": 1
+    },
+    {
+        "name": "papaya",
+        "nova_group": 1
+    },
+    {
+        "name": "pineapple",
+        "nova_group": 1
+    },
+    {
+        "name": "grape",
+        "nova_group": 1
+    },
+    {
+        "name": "watermelon",
+        "nova_group": 1
+    },
+    {
+        "name": "blueberry",
+        "nova_group": 1
+    },
+    {
+        "name": "strawberry",
+        "nova_group": 1
+    },
+    {
+        "name": "raspberry",
+        "nova_group": 1
+    },
+    {
+        "name": "blackberry",
+        "nova_group": 1
+    },
+    {
+        "name": "peach",
+        "nova_group": 1
+    },
+    {
+        "name": "plum",
+        "nova_group": 1
+    },
+    {
+        "name": "apricot",
+        "nova_group": 1
+    },
+    {
+        "name": "cherry",
+        "nova_group": 1
+    },
+    {
+        "name": "coconut",
+        "nova_group": 1
+    },
+    {
+        "name": "date",
+        "nova_group": 1
+    },
+    {
+        "name": "fig",
+        "nova_group": 1
+    },
+    {
+        "name": "pomegranate",
+        "nova_group": 1
+    },
+    {
+        "name": "persimmon",
+        "nova_group": 1
+    },
+    {
+        "name": "guava",
+        "nova_group": 1
+    },
+    {
+        "name": "lychee",
+        "nova_group": 1
+    },
+    {
+        "name": "avocado",
+        "nova_group": 1
+    },
+    {
+        "name": "lemon",
+        "nova_group": 1
+    },
+    {
+        "name": "lime",
+        "nova_group": 1
+    },
+    {
+        "name": "grapefruit",
+        "nova_group": 1
+    },
+    {
+        "name": "tangerine",
+        "nova_group": 1
+    },
+    {
+        "name": "clementine",
+        "nova_group": 1
+    },
+    {
+        "name": "quince",
+        "nova_group": 1
+    },
+    {
+        "name": "passion fruit",
+        "nova_group": 1
+    },
+    {
+        "name": "starfruit",
+        "nova_group": 1
+    },
+    {
+        "name": "dragon fruit",
+        "nova_group": 1
+    },
+    {
+        "name": "jackfruit",
+        "nova_group": 1
+    },
+    {
+        "name": "durian",
+        "nova_group": 1
+    },
+    {
+        "name": "cucumber",
+        "nova_group": 1
+    },
+    {
+        "name": "lettuce",
+        "nova_group": 1
+    },
+    {
+        "name": "spinach",
+        "nova_group": 1
+    },
+    {
+        "name": "kale",
+        "nova_group": 1
+    },
+    {
+        "name": "chard",
+        "nova_group": 1
+    },
+    {
+        "name": "arugula",
+        "nova_group": 1
+    },
+    {
+        "name": "broccoli",
+        "nova_group": 1
+    },
+    {
+        "name": "cauliflower",
+        "nova_group": 1
+    },
+    {
+        "name": "zucchini",
+        "nova_group": 1
+    },
+    {
+        "name": "squash",
+        "nova_group": 1
+    },
+    {
+        "name": "pumpkin",
+        "nova_group": 1
+    },
+    {
+        "name": "beet",
+        "nova_group": 1
+    },
+    {
+        "name": "radish",
+        "nova_group": 1
+    },
+    {
+        "name": "turnip",
+        "nova_group": 1
+    },
+    {
+        "name": "parsnip",
+        "nova_group": 1
+    },
+    {
+        "name": "sweet potato",
+        "nova_group": 1
+    },
+    {
+        "name": "shallot",
+        "nova_group": 1
+    },
+    {
+        "name": "leek",
+        "nova_group": 1
+    },
+    {
+        "name": "celery",
+        "nova_group": 1
+    },
+    {
+        "name": "jalapeno",
+        "nova_group": 1
+    },
+    {
+        "name": "habanero",
+        "nova_group": 1
+    },
+    {
+        "name": "poblano",
+        "nova_group": 1
+    },
+    {
+        "name": "eggplant",
+        "nova_group": 1
+    },
+    {
+        "name": "brussels sprouts",
+        "nova_group": 1
+    },
+    {
+        "name": "green beans",
+        "nova_group": 1
+    },
+    {
+        "name": "peas",
+        "nova_group": 1
+    },
+    {
+        "name": "corn",
+        "nova_group": 1
+    },
+    {
+        "name": "mushroom",
+        "nova_group": 1
+    },
+    {
+        "name": "asparagus",
+        "nova_group": 1
+    },
+    {
+        "name": "artichoke",
+        "nova_group": 1
+    },
+    {
+        "name": "cabbage",
+        "nova_group": 1
+    },
+    {
+        "name": "bok choy",
+        "nova_group": 1
+    },
+    {
+        "name": "fennel",
+        "nova_group": 1
+    },
+    {
+        "name": "okra",
+        "nova_group": 1
+    },
+    {
+        "name": "watercress",
+        "nova_group": 1
+    },
+    {
+        "name": "basil",
+        "nova_group": 1
+    },
+    {
+        "name": "cilantro",
+        "nova_group": 1
+    },
+    {
+        "name": "parsley",
+        "nova_group": 1
+    },
+    {
+        "name": "mint",
+        "nova_group": 1
+    },
+    {
+        "name": "oregano",
+        "nova_group": 1
+    },
+    {
+        "name": "thyme",
+        "nova_group": 1
+    },
+    {
+        "name": "rosemary",
+        "nova_group": 1
+    },
+    {
+        "name": "sage",
+        "nova_group": 1
+    },
+    {
+        "name": "tarragon",
+        "nova_group": 1
+    },
+    {
+        "name": "dill",
+        "nova_group": 1
+    },
+    {
+        "name": "bay leaf",
+        "nova_group": 1
+    },
+    {
+        "name": "chive",
+        "nova_group": 1
+    },
+    {
+        "name": "ginger",
+        "nova_group": 1
+    },
+    {
+        "name": "turmeric",
+        "nova_group": 1
+    },
+    {
+        "name": "almond",
+        "nova_group": 1
+    },
+    {
+        "name": "walnut",
+        "nova_group": 1
+    },
+    {
+        "name": "cashew",
+        "nova_group": 1
+    },
+    {
+        "name": "pecan",
+        "nova_group": 1
+    },
+    {
+        "name": "hazelnut",
+        "nova_group": 1
+    },
+    {
+        "name": "pistachio",
+        "nova_group": 1
+    },
+    {
+        "name": "sunflower seeds",
+        "nova_group": 1
+    },
+    {
+        "name": "pumpkin seeds",
+        "nova_group": 1
+    },
+    {
+        "name": "chia seeds",
+        "nova_group": 1
+    },
+    {
+        "name": "flax seeds",
+        "nova_group": 1
+    },
+    {
+        "name": "hemp seeds",
+        "nova_group": 1
+    },
+    {
+        "name": "sesame seeds",
+        "nova_group": 1
+    },
+    {
+        "name": "brown rice",
+        "nova_group": 1
+    },
+    {
+        "name": "wild rice",
+        "nova_group": 1
+    },
+    {
+        "name": "quinoa",
+        "nova_group": 1
+    },
+    {
+        "name": "barley",
+        "nova_group": 1
+    },
+    {
+        "name": "millet",
+        "nova_group": 1
+    },
+    {
+        "name": "buckwheat",
+        "nova_group": 1
+    },
+    {
+        "name": "bulgur",
+        "nova_group": 1
+    },
+    {
+        "name": "spelt",
+        "nova_group": 1
+    },
+    {
+        "name": "farro",
+        "nova_group": 1
+    },
+    {
+        "name": "cornmeal",
+        "nova_group": 1
+    },
+    {
+        "name": "rye",
+        "nova_group": 1
+    },
+    {
+        "name": "wheat berries",
+        "nova_group": 1
+    },
+    {
+        "name": "couscous",
+        "nova_group": 1
+    },
+    {
+        "name": "black beans",
+        "nova_group": 1
+    },
+    {
+        "name": "kidney beans",
+        "nova_group": 1
+    },
+    {
+        "name": "pinto beans",
+        "nova_group": 1
+    },
+    {
+        "name": "navy beans",
+        "nova_group": 1
+    },
+    {
+        "name": "white beans",
+        "nova_group": 1
+    },
+    {
+        "name": "cannellini beans",
+        "nova_group": 1
+    },
+    {
+        "name": "adzuki beans",
+        "nova_group": 1
+    },
+    {
+        "name": "mung beans",
+        "nova_group": 1
+    },
+    {
+        "name": "soybeans",
+        "nova_group": 1
+    },
+    {
+        "name": "tofu",
+        "nova_group": 1
+    },
+    {
+        "name": "tempeh",
+        "nova_group": 1
+    },
+    {
+        "name": "edamame",
+        "nova_group": 1
+    },
+    {
+        "name": "peanut butter",
+        "nova_group": 1
+    },
+    {
+        "name": "chicken breast",
+        "nova_group": 1
+    },
+    {
+        "name": "turkey breast",
+        "nova_group": 1
+    },
+    {
+        "name": "duck breast",
+        "nova_group": 1
+    },
+    {
+        "name": "whole milk",
+        "nova_group": 1
+    },
+    {
+        "name": "yogurt",
+        "nova_group": 1
+    },
+    {
+        "name": "salmon",
+        "nova_group": 1
+    },
+    {
+        "name": "tuna",
+        "nova_group": 1
+    },
+    {
+        "name": "cod",
+        "nova_group": 1
+    },
+    {
+        "name": "shrimp",
+        "nova_group": 1
+    },
+    {
+        "name": "scallops",
+        "nova_group": 1
+    },
+    {
+        "name": "mussels",
+        "nova_group": 1
+    },
+    {
+        "name": "crab",
+        "nova_group": 1
+    },
+    {
+        "name": "lobster",
+        "nova_group": 1
+    },
+    {
+        "name": "sardines",
+        "nova_group": 1
+    },
+    {
+        "name": "trout",
+        "nova_group": 1
+    },
+    {
+        "name": "haddock",
+        "nova_group": 1
+    },
+    {
+        "name": "tilapia",
+        "nova_group": 1
+    },
+    {
+        "name": "mackerel",
+        "nova_group": 1
+    },
+    {
+        "name": "clams",
+        "nova_group": 1
+    },
+    {
+        "name": "oysters",
+        "nova_group": 1
+    },
+    {
+        "name": "lamb",
+        "nova_group": 1
+    },
+    {
+        "name": "pork",
+        "nova_group": 1
+    },
+    {
+        "name": "beef",
+        "nova_group": 1
+    },
+    {
+        "name": "venison",
+        "nova_group": 1
+    },
+    {
+        "name": "bison",
+        "nova_group": 1
+    },
+    {
+        "name": "quail",
+        "nova_group": 1
+    },
+    {
+        "name": "pheasant",
+        "nova_group": 1
+    },
+    {
+        "name": "rabbit",
+        "nova_group": 1
+    },
+    {
+        "name": "coconut water",
+        "nova_group": 1
+    },
+    {
+        "name": "spring water",
+        "nova_group": 1
+    },
+    {
+        "name": "mineral water",
+        "nova_group": 1
+    },
+    {
+        "name": "herbal tea",
+        "nova_group": 1
+    },
+    {
+        "name": "coffee",
+        "nova_group": 1
+    },
+    {
+        "name": "cocoa",
+        "nova_group": 1
+    },
+    {
+        "name": "goji berries",
+        "nova_group": 1
+    },
+    {
+        "name": "dried apricots",
+        "nova_group": 1
+    },
+    {
+        "name": "raisins",
+        "nova_group": 1
+    },
+    {
+        "name": "prunes",
+        "nova_group": 1
+    },
+    {
+        "name": "cranberries",
+        "nova_group": 1
+    },
+    {
+        "name": "figs",
+        "nova_group": 1
+    },
+    {
+        "name": "cantaloupe",
+        "nova_group": 1
+    },
+    {
+        "name": "honeydew melon",
+        "nova_group": 1
+    },
+    {
+        "name": "elderberry",
+        "nova_group": 1
+    },
+    {
+        "name": "mulberries",
+        "nova_group": 1
+    },
+    {
+        "name": "nectarines",
+        "nova_group": 1
+    },
+    {
+        "name": "blood orange",
+        "nova_group": 1
+    },
+    {
+        "name": "yuzu",
+        "nova_group": 1
+    },
+    {
+        "name": "tamarind",
+        "nova_group": 1
+    },
+    {
+        "name": "ghee",
+        "nova_group": 1
+    },
+    {
+        "name": "duck fat",
+        "nova_group": 1
+    },
+    {
+        "name": "sea salt",
+        "nova_group": 1
+    },
+    {
+        "name": "rock salt",
+        "nova_group": 1
+    },
+    {
+        "name": "table salt",
+        "nova_group": 1
+    },
+    {
+        "name": "peppercorn",
+        "nova_group": 1
+    },
+    {
+        "name": "cinnamon stick",
+        "nova_group": 1
+    },
+    {
+        "name": "clove",
+        "nova_group": 1
+    },
+    {
+        "name": "cardamom",
+        "nova_group": 1
+    },
+    {
+        "name": "nutmeg",
+        "nova_group": 1
+    },
+    {
+        "name": "allspice",
+        "nova_group": 1
+    },
+    {
+        "name": "anise",
+        "nova_group": 1
+    },
+    {
+        "name": "saffron",
+        "nova_group": 1
+    },
+    {
+        "name": "vanilla bean",
+        "nova_group": 1
+    },
+    {
+        "name": "lemongrass",
+        "nova_group": 1
+    },
+    {
+        "name": "turmeric root",
+        "nova_group": 1
+    },
+    {
+        "name": "galangal",
+        "nova_group": 1
+    },
+    {
+        "name": "wasabi",
+        "nova_group": 1
+    },
+    {
+        "name": "horseradish",
+        "nova_group": 1
+    },
+    {
+        "name": "mustard seeds",
+        "nova_group": 1
+    },
+    {
+        "name": "fenugreek",
+        "nova_group": 1
+    },
+    {
+        "name": "tamarind paste",
+        "nova_group": 1
+    },
+    {
+        "name": "miso",
+        "nova_group": 1
+    },
+    {
+        "name": "sauerkraut",
+        "nova_group": 1
+    },
+    {
+        "name": "kimchi",
+        "nova_group": 1
+    },
+    {
+        "name": "pickles",
+        "nova_group": 1
+    },
+    {
+        "name": "vinegar",
+        "nova_group": 1
+    },
+    {
+        "name": "soy sauce",
+        "nova_group": 1
+    },
+    {
+        "name": "tahini",
+        "nova_group": 1
+    },
+    {
+        "name": "cacao nibs",
+        "nova_group": 1
+    },
+    {
+        "name": "dark chocolate",
+        "nova_group": 1
+    },
+    {
+        "name": "whole grain bread",
+        "nova_group": 1
+    },
+    {
+        "name": "spelt bread",
+        "nova_group": 1
+    },
+    {
+        "name": "sourdough bread",
+        "nova_group": 1
+    },
+    {
+        "name": "rye bread",
+        "nova_group": 1
+    },
+    {
+        "name": "pita bread",
+        "nova_group": 1
+    },
+    {
+        "name": "corn tortillas",
+        "nova_group": 1
+    },
+    {
+        "name": "polenta",
+        "nova_group": 1
+    },
+    {
+        "name": "fresh pasta",
+        "nova_group": 1
+    },
+    {
+        "name": "dumplings",
+        "nova_group": 1
+    },
+    {
+        "name": "mozzarella cheese",
+        "nova_group": 1
+    },
+    {
+        "name": "ricotta cheese",
+        "nova_group": 1
+    },
+    {
+        "name": "feta cheese",
+        "nova_group": 1
+    },
+    {
+        "name": "goat cheese",
+        "nova_group": 1
+    },
+    {
+        "name": "parmesan",
+        "nova_group": 1
+    },
+    {
+        "name": "provolone",
+        "nova_group": 1
+    },
+    {
+        "name": "swiss cheese",
+        "nova_group": 1
+    },
+    {
+        "name": "gouda",
+        "nova_group": 1
+    },
+    {
+        "name": "cheddar",
+        "nova_group": 1
+    },
+    {
+        "name": "brie",
+        "nova_group": 1
+    },
+    {
+        "name": "camembert",
+        "nova_group": 1
+    },
+    {
+        "name": "gruyere",
+        "nova_group": 1
+    },
+    {
+        "name": "halloumi",
+        "nova_group": 1
+    },
+    {
+        "name": "blue cheese",
+        "nova_group": 1
+    },
+    {
+        "name": "cottage cheese",
+        "nova_group": 1
+    },
+    {
+        "name": "cream cheese",
+        "nova_group": 1
+    },
+    {
+        "name": "sour cream",
+        "nova_group": 1
+    },
+    {
+        "name": "buttermilk",
+        "nova_group": 1
+    },
+    {
+        "name": "kefir",
+        "nova_group": 1
+    },
+    {
+        "name": "kombucha",
+        "nova_group": 1
+    },
+    {
+        "name": "plain yogurt",
+        "nova_group": 1
+    },
+    {
+        "name": "goat milk",
+        "nova_group": 1
+    },
+    {
+        "name": "sheep milk",
+        "nova_group": 1
+    },
+    {
+        "name": "buffalo milk",
+        "nova_group": 1
+    },
+    {
+        "name": "camel milk",
+        "nova_group": 1
+    },
+    {
+        "name": "quail eggs",
+        "nova_group": 1
+    },
+    {
+        "name": "duck eggs",
+        "nova_group": 1
+    },
+    {
+        "name": "goose eggs",
+        "nova_group": 1
+    },
+    {
+        "name": "chicken thighs",
+        "nova_group": 1
+    },
+    {
+        "name": "lamb chops",
+        "nova_group": 1
+    },
+    {
+        "name": "pork loin",
+        "nova_group": 1
+    },
+    {
+        "name": "beef steak",
+        "nova_group": 1
+    },
+    {
+        "name": "veal",
+        "nova_group": 1
+    },
+    {
+        "name": "goose liver",
+        "nova_group": 1
+    },
+    {
+        "name": "p\u00c3\u00a2t\u00c3\u00a9",
+        "nova_group": 1
+    },
+    {
+        "name": "bone broth",
+        "nova_group": 1
+    },
+    {
+        "name": "vegetable broth",
+        "nova_group": 1
+    },
+    {
+        "name": "stock",
+        "nova_group": 1
+    },
+    {
+        "name": "lamb shank",
+        "nova_group": 1
+    },
+    {
+        "name": "beef ribs",
+        "nova_group": 1
+    },
+    {
+        "name": "pork ribs",
+        "nova_group": 1
+    },
+    {
+        "name": "chicken wings",
+        "nova_group": 1
+    },
+    {
+        "name": "turkey legs",
+        "nova_group": 1
+    },
+    {
+        "name": "duck confit",
+        "nova_group": 1
+    },
+    {
+        "name": "rabbit stew",
+        "nova_group": 1
+    },
+    {
+        "name": "venison stew",
+        "nova_group": 1
+    },
+    {
+        "name": "bison burgers",
+        "nova_group": 1
+    },
+    {
+        "name": "quinoa flour",
+        "nova_group": 1
+    },
+    {
+        "name": "buckwheat flour",
+        "nova_group": 1
+    },
+    {
+        "name": "spelt flour",
+        "nova_group": 1
+    },
+    {
+        "name": "coconut flour",
+        "nova_group": 1
+    },
+    {
+        "name": "almond flour",
+        "nova_group": 1
+    },
+    {
+        "name": "chickpea flour",
+        "nova_group": 1
+    },
+    {
+        "name": "cassava flour",
+        "nova_group": 1
+    },
+    {
+        "name": "sweet potato flour",
+        "nova_group": 1
+    },
+    {
+        "name": "rice flour",
+        "nova_group": 1
+    },
+    {
+        "name": "tapioca flour",
+        "nova_group": 1
+    },
+    {
+        "name": "potato starch",
+        "nova_group": 1
+    },
+    {
+        "name": "arrowroot powder",
+        "nova_group": 1
+    },
+    {
+        "name": "gelatin",
+        "nova_group": 1
+    },
+    {
+        "name": "agar-agar",
+        "nova_group": 1
+    },
+    {
+        "name": "psyllium husk",
+        "nova_group": 1
+    },
+    {
+        "name": "whey protein",
+        "nova_group": 1
+    },
+    {
+        "name": "collagen powder",
+        "nova_group": 1
+    },
+    {
+        "name": "spirulina",
+        "nova_group": 1
+    },
+    {
+        "name": "chlorella",
+        "nova_group": 1
+    },
+    {
+        "name": "wheatgrass",
+        "nova_group": 1
+    },
+    {
+        "name": "barley grass",
+        "nova_group": 1
+    },
+    {
+        "name": "matcha",
+        "nova_group": 1
+    },
+    {
+        "name": "green tea leaves",
+        "nova_group": 1
+    },
+    {
+        "name": "black tea leaves",
+        "nova_group": 1
+    },
+    {
+        "name": "oolong tea leaves",
+        "nova_group": 1
+    },
+    {
+        "name": "white tea leaves",
+        "nova_group": 1
+    },
+    {
+        "name": "dandelion root",
+        "nova_group": 1
+    },
+    {
+        "name": "hibiscus flowers",
+        "nova_group": 1
+    },
+    {
+        "name": "rose petals",
+        "nova_group": 1
+    },
+    {
+        "name": "lavender buds",
+        "nova_group": 1
+    },
+    {
+        "name": "chamomile flowers",
+        "nova_group": 1
+    },
+    {
+        "name": "elderflower",
+        "nova_group": 1
+    },
+    {
+        "name": "eucalyptus leaves",
+        "nova_group": 1
+    },
+    {
+        "name": "sage leaves",
+        "nova_group": 1
+    },
+    {
+        "name": "rosemary sprigs",
+        "nova_group": 1
+    },
+    {
+        "name": "thyme sprigs",
+        "nova_group": 1
+    },
+    {
+        "name": "oregano sprigs",
+        "nova_group": 1
+    },
+    {
+        "name": "basil sprigs",
+        "nova_group": 1
+    },
+    {
+        "name": "tarragon sprigs",
+        "nova_group": 1
+    },
+    {
+        "name": "lemon balm",
+        "nova_group": 1
+    },
+    {
+        "name": "catnip",
+        "nova_group": 1
+    },
+    {
+        "name": "peppermint leaves",
+        "nova_group": 1
+    },
+    {
+        "name": "spearmint leaves",
+        "nova_group": 1
+    },
+    {
+        "name": "baby spinach",
+        "nova_group": 1
+    },
+    {
+        "name": "collard greens",
+        "nova_group": 1
+    },
+    {
+        "name": "turnip greens",
+        "nova_group": 1
+    },
+    {
+        "name": "mustard greens",
+        "nova_group": 1
+    },
+    {
+        "name": "beet greens",
+        "nova_group": 1
+    },
+    {
+        "name": "napa cabbage",
+        "nova_group": 1
+    },
+    {
+        "name": "savoy cabbage",
+        "nova_group": 1
+    },
+    {
+        "name": "green cabbage",
+        "nova_group": 1
+    },
+    {
+        "name": "red cabbage",
+        "nova_group": 1
+    },
+    {
+        "name": "cauliflower florets",
+        "nova_group": 1
+    },
+    {
+        "name": "broccoli rabe",
+        "nova_group": 1
+    },
+    {
+        "name": "broccolini",
+        "nova_group": 1
+    },
+    {
+        "name": "baby corn",
+        "nova_group": 1
+    },
+    {
+        "name": "microgreens",
+        "nova_group": 1
+    },
+    {
+        "name": "alfalfa sprouts",
+        "nova_group": 1
+    },
+    {
+        "name": "bean sprouts",
+        "nova_group": 1
+    },
+    {
+        "name": "lentil sprouts",
+        "nova_group": 1
+    },
+    {
+        "name": "radish sprouts",
+        "nova_group": 1
+    },
+    {
+        "name": "sunflower sprouts",
+        "nova_group": 1
+    },
+    {
+        "name": "wheat sprouts",
+        "nova_group": 1
+    },
+    {
+        "name": "pea shoots",
+        "nova_group": 1
+    },
+    {
+        "name": "snap peas",
+        "nova_group": 1
+    },
+    {
+        "name": "snow peas",
+        "nova_group": 1
+    },
+    {
+        "name": "sugar snap peas",
+        "nova_group": 1
+    },
+    {
+        "name": "jicama",
+        "nova_group": 1
+    },
+    {
+        "name": "celeriac",
+        "nova_group": 1
+    },
+    {
+        "name": "rutabaga",
+        "nova_group": 1
+    },
+    {
+        "name": "kohlrabi",
+        "nova_group": 1
+    },
+    {
+        "name": "sunchokes",
+        "nova_group": 1
+    },
+    {
+        "name": "water chestnuts",
+        "nova_group": 1
+    },
+    {
+        "name": "lotus root",
+        "nova_group": 1
+    },
+    {
+        "name": "bamboo shoots",
+        "nova_group": 1
+    },
+    {
+        "name": "ginger root",
+        "nova_group": 1
+    },
+    {
+        "name": "horseradish root",
+        "nova_group": 1
+    },
+    {
+        "name": "wasabi root",
+        "nova_group": 1
+    },
+    {
+        "name": "yam",
+        "nova_group": 1
+    },
+    {
+        "name": "yucca",
+        "nova_group": 1
+    },
+    {
+        "name": "taro root",
+        "nova_group": 1
+    },
+    {
+        "name": "lotus seeds",
+        "nova_group": 1
+    },
+    {
+        "name": "watermelon seeds",
+        "nova_group": 1
+    },
+    {
+        "name": "pumpkin flesh",
+        "nova_group": 1
+    },
+    {
+        "name": "acorn squash",
+        "nova_group": 1
+    },
+    {
+        "name": "butternut squash",
+        "nova_group": 1
+    },
+    {
+        "name": "spaghetti squash",
+        "nova_group": 1
+    },
+    {
+        "name": "delicata squash",
+        "nova_group": 1
+    },
+    {
+        "name": "carnival squash",
+        "nova_group": 1
+    },
+    {
+        "name": "turban squash",
+        "nova_group": 1
+    },
+    {
+        "name": "blue hubbard squash",
+        "nova_group": 1
+    },
+    {
+        "name": "kabocha squash",
+        "nova_group": 1
+    },
+    {
+        "name": "sugar pumpkin",
+        "nova_group": 1
+    },
+    {
+        "name": "winter melon",
+        "nova_group": 1
+    },
+    {
+        "name": "bitter melon",
+        "nova_group": 1
+    },
+    {
+        "name": "gourds",
+        "nova_group": 1
+    },
+    {
+        "name": "long beans",
+        "nova_group": 1
+    },
+    {
+        "name": "snake beans",
+        "nova_group": 1
+    },
+    {
+        "name": "nasturtium",
+        "nova_group": 1
+    },
+    {
+        "name": "marigold",
+        "nova_group": 1
+    },
+    {
+        "name": "viola",
+        "nova_group": 1
+    },
+    {
+        "name": "shiso leaves",
+        "nova_group": 1
+    },
+    {
+        "name": "lime leaves",
+        "nova_group": 1
+    },
+    {
+        "name": "curry leaves",
+        "nova_group": 1
+    },
+    {
+        "name": "fenugreek leaves",
+        "nova_group": 1
+    },
+    {
+        "name": "moringa leaves",
+        "nova_group": 1
+    },
+    {
+        "name": "papalo",
+        "nova_group": 1
+    },
+    {
+        "name": "epazote",
+        "nova_group": 1
+    },
+    {
+        "name": "soybean oil",
+        "nova_group": 2
+    },
+    {
+        "name": "corn oil",
+        "nova_group": 2
+    },
+    {
+        "name": "white sugar",
+        "nova_group": 2
+    },
+    {
+        "name": "brown sugar",
+        "nova_group": 2
+    },
+    {
+        "name": "cane sugar",
+        "nova_group": 2
+    },
+    {
+        "name": "beet sugar",
+        "nova_group": 2
+    },
+    {
+        "name": "refined salt",
+        "nova_group": 2
+    },
+    {
+        "name": "potatoes starch",
+        "nova_group": 2
+    },
+    {
+        "name": "wheat starch",
+        "nova_group": 2
+    },
+    {
+        "name": "corn syrup",
+        "nova_group": 2
+    },
+    {
+        "name": "coconut sugar",
+        "nova_group": 2
+    },
+    {
+        "name": "wheat flour",
+        "nova_group": 2
+    },
+    {
+        "name": "corn flour",
+        "nova_group": 2
+    },
+    {
+        "name": "potato flour",
+        "nova_group": 2
+    },
+    {
+        "name": "sorghum flour",
+        "nova_group": 2
+    },
+    {
+        "name": "barley flour",
+        "nova_group": 2
+    },
+    {
+        "name": "rye flour",
+        "nova_group": 2
+    },
+    {
+        "name": "almond oil",
+        "nova_group": 2
+    },
+    {
+        "name": "grapeseed oil",
+        "nova_group": 2
+    },
+    {
+        "name": "flaxseed oil",
+        "nova_group": 2
+    },
+    {
+        "name": "hempseed oil",
+        "nova_group": 2
+    },
+    {
+        "name": "safflower oil",
+        "nova_group": 2
+    },
+    {
+        "name": "avocado oil",
+        "nova_group": 2
+    },
+    {
+        "name": "fish oil",
+        "nova_group": 2
+    },
+    {
+        "name": "beef dripping",
+        "nova_group": 2
+    },
+    {
+        "name": "goose fat",
+        "nova_group": 2
+    },
+    {
+        "name": "clarified butter",
+        "nova_group": 2
+    },
+    {
+        "name": "palm kernel oil",
+        "nova_group": 2
+    },
+    {
+        "name": "mustard oil",
+        "nova_group": 2
+    },
+    {
+        "name": "cinnamon",
+        "nova_group": 2
+    },
+    {
+        "name": "cloves",
+        "nova_group": 2
+    },
+    {
+        "name": "vanilla extract",
+        "nova_group": 2
+    },
+    {
+        "name": "cocoa butter",
+        "nova_group": 2
+    },
+    {
+        "name": "chili powder",
+        "nova_group": 2
+    },
+    {
+        "name": "curry powder",
+        "nova_group": 2
+    },
+    {
+        "name": "dried basil",
+        "nova_group": 2
+    },
+    {
+        "name": "dried thyme",
+        "nova_group": 2
+    },
+    {
+        "name": "dried oregano",
+        "nova_group": 2
+    },
+    {
+        "name": "black pepper",
+        "nova_group": 2
+    },
+    {
+        "name": "cumin",
+        "nova_group": 2
+    },
+    {
+        "name": "paprika",
+        "nova_group": 2
+    },
+    {
+        "name": "apple cider vinegar",
+        "nova_group": 2
+    },
+    {
+        "name": "white vinegar",
+        "nova_group": 2
+    },
+    {
+        "name": "balsamic vinegar",
+        "nova_group": 2
+    },
+    {
+        "name": "tamari",
+        "nova_group": 2
+    },
+    {
+        "name": "fish sauce",
+        "nova_group": 2
+    },
+    {
+        "name": "sesame paste",
+        "nova_group": 2
+    },
+    {
+        "name": "miso paste",
+        "nova_group": 2
+    },
+    {
+        "name": "cane vinegar",
+        "nova_group": 2
+    },
+    {
+        "name": "rice vinegar",
+        "nova_group": 2
+    },
+    {
+        "name": "guar gum",
+        "nova_group": 2
+    },
+    {
+        "name": "xanthan gum",
+        "nova_group": 2
+    },
+    {
+        "name": "palm sugar",
+        "nova_group": 2
+    },
+    {
+        "name": "palm syrup",
+        "nova_group": 2
+    },
+    {
+        "name": "agave nectar",
+        "nova_group": 2
+    },
+    {
+        "name": "honeycomb",
+        "nova_group": 2
+    },
+    {
+        "name": "sorbitol",
+        "nova_group": 2
+    },
+    {
+        "name": "mannitol",
+        "nova_group": 2
+    },
+    {
+        "name": "coconut nectar",
+        "nova_group": 2
+    },
+    {
+        "name": "date syrup",
+        "nova_group": 2
+    },
+    {
+        "name": "apple cider",
+        "nova_group": 2
+    },
+    {
+        "name": "cane juice",
+        "nova_group": 2
+    },
+    {
+        "name": "glycerol",
+        "nova_group": 2
+    },
+    {
+        "name": "poppy seed oil",
+        "nova_group": 2
+    },
+    {
+        "name": "vegetable shortening",
+        "nova_group": 2
+    },
+    {
+        "name": "powdered gelatin",
+        "nova_group": 2
+    },
+    {
+        "name": "corn syrup solids",
+        "nova_group": 2
+    },
+    {
+        "name": "malt syrup",
+        "nova_group": 2
+    },
+    {
+        "name": "maltodextrin",
+        "nova_group": 2
+    },
+    {
+        "name": "rice malt",
+        "nova_group": 2
+    },
+    {
+        "name": "dehydrated onion",
+        "nova_group": 2
+    },
+    {
+        "name": "dehydrated garlic",
+        "nova_group": 2
+    },
+    {
+        "name": "tomato paste",
+        "nova_group": 2
+    },
+    {
+        "name": "lemon juice concentrate",
+        "nova_group": 2
+    },
+    {
+        "name": "lime juice concentrate",
+        "nova_group": 2
+    },
+    {
+        "name": "condensed milk",
+        "nova_group": 2
+    },
+    {
+        "name": "evaporated milk",
+        "nova_group": 2
+    },
+    {
+        "name": "skimmed milk powder",
+        "nova_group": 2
+    },
+    {
+        "name": "nonfat dry milk",
+        "nova_group": 2
+    },
+    {
+        "name": "dry buttermilk",
+        "nova_group": 2
+    },
+    {
+        "name": "dehydrated broth",
+        "nova_group": 2
+    },
+    {
+        "name": "yeast extract",
+        "nova_group": 2
+    },
+    {
+        "name": "canned kidney beans",
+        "nova_group": 3
+    },
+    {
+        "name": "canned black beans",
+        "nova_group": 3
+    },
+    {
+        "name": "canned chickpeas",
+        "nova_group": 3
+    },
+    {
+        "name": "canned pinto beans",
+        "nova_group": 3
+    },
+    {
+        "name": "canned navy beans",
+        "nova_group": 3
+    },
+    {
+        "name": "canned cannellini beans",
+        "nova_group": 3
+    },
+    {
+        "name": "canned peas",
+        "nova_group": 3
+    },
+    {
+        "name": "canned carrots",
+        "nova_group": 3
+    },
+    {
+        "name": "canned corn",
+        "nova_group": 3
+    },
+    {
+        "name": "canned green beans",
+        "nova_group": 3
+    },
+    {
+        "name": "canned spinach",
+        "nova_group": 3
+    },
+    {
+        "name": "canned tomatoes",
+        "nova_group": 3
+    },
+    {
+        "name": "canned beets",
+        "nova_group": 3
+    },
+    {
+        "name": "canned artichokes",
+        "nova_group": 3
+    },
+    {
+        "name": "canned asparagus",
+        "nova_group": 3
+    },
+    {
+        "name": "pickled cucumbers",
+        "nova_group": 3
+    },
+    {
+        "name": "pickled beets",
+        "nova_group": 3
+    },
+    {
+        "name": "pickled onions",
+        "nova_group": 3
+    },
+    {
+        "name": "pickled carrots",
+        "nova_group": 3
+    },
+    {
+        "name": "pickled radishes",
+        "nova_group": 3
+    },
+    {
+        "name": "canned sardines",
+        "nova_group": 3
+    },
+    {
+        "name": "canned tuna",
+        "nova_group": 3
+    },
+    {
+        "name": "canned salmon",
+        "nova_group": 3
+    },
+    {
+        "name": "tomato extract",
+        "nova_group": 3
+    },
+    {
+        "name": "tomato concentrate",
+        "nova_group": 3
+    },
+    {
+        "name": "salted beef",
+        "nova_group": 3
+    },
+    {
+        "name": "salted pork",
+        "nova_group": 3
+    },
+    {
+        "name": "salted lamb",
+        "nova_group": 3
+    },
+    {
+        "name": "salted fish",
+        "nova_group": 3
+    },
+    {
+        "name": "dried beef",
+        "nova_group": 3
+    },
+    {
+        "name": "dried pork",
+        "nova_group": 3
+    },
+    {
+        "name": "dried lamb",
+        "nova_group": 3
+    },
+    {
+        "name": "dried fish",
+        "nova_group": 3
+    },
+    {
+        "name": "smoked salmon",
+        "nova_group": 3
+    },
+    {
+        "name": "smoked trout",
+        "nova_group": 3
+    },
+    {
+        "name": "smoked mackerel",
+        "nova_group": 3
+    },
+    {
+        "name": "cured ham",
+        "nova_group": 3
+    },
+    {
+        "name": "cured salami",
+        "nova_group": 3
+    },
+    {
+        "name": "cured chorizo",
+        "nova_group": 3
+    },
+    {
+        "name": "salted cod",
+        "nova_group": 3
+    },
+    {
+        "name": "salted herring",
+        "nova_group": 3
+    },
+    {
+        "name": "dried cod",
+        "nova_group": 3
+    },
+    {
+        "name": "dried herring",
+        "nova_group": 3
+    },
+    {
+        "name": "fruits in sugar syrup",
+        "nova_group": 3
+    },
+    {
+        "name": "canned peaches in syrup",
+        "nova_group": 3
+    },
+    {
+        "name": "canned pears in syrup",
+        "nova_group": 3
+    },
+    {
+        "name": "canned cherries in syrup",
+        "nova_group": 3
+    },
+    {
+        "name": "canned pineapple in syrup",
+        "nova_group": 3
+    },
+    {
+        "name": "beef jerky",
+        "nova_group": 3
+    },
+    {
+        "name": "fresh mozzarella",
+        "nova_group": 3
+    },
+    {
+        "name": "fresh cheddar",
+        "nova_group": 3
+    },
+    {
+        "name": "fresh ricotta",
+        "nova_group": 3
+    },
+    {
+        "name": "fresh feta",
+        "nova_group": 3
+    },
+    {
+        "name": "fresh parmesan",
+        "nova_group": 3
+    },
+    {
+        "name": "fresh gouda",
+        "nova_group": 3
+    },
+    {
+        "name": "fresh brie",
+        "nova_group": 3
+    },
+    {
+        "name": "fresh camembert",
+        "nova_group": 3
+    },
+    {
+        "name": "bacon",
+        "nova_group": 3
+    },
+    {
+        "name": "fresh bread made of wheat flour, yeast, water, and salt",
+        "nova_group": 3
+    },
+    {
+        "name": "salted almonds",
+        "nova_group": 3
+    },
+    {
+        "name": "salted peanuts",
+        "nova_group": 3
+    },
+    {
+        "name": "salted cashews",
+        "nova_group": 3
+    },
+    {
+        "name": "salted sunflower seeds",
+        "nova_group": 3
+    },
+    {
+        "name": "salted pumpkin seeds",
+        "nova_group": 3
+    },
+    {
+        "name": "sugared almonds",
+        "nova_group": 3
+    },
+    {
+        "name": "sugared peanuts",
+        "nova_group": 3
+    },
+    {
+        "name": "sugared cashews",
+        "nova_group": 3
+    },
+    {
+        "name": "sugared sunflower seeds",
+        "nova_group": 3
+    },
+    {
+        "name": "sugared pumpkin seeds",
+        "nova_group": 3
+    },
+    {
+        "name": "beer",
+        "nova_group": 3
+    },
+    {
+        "name": "alcoholic cider",
+        "nova_group": 3
+    },
+    {
+        "name": "wine",
+        "nova_group": 3
+    },
+    {
+        "name": "Monosodium glutamate",
+        "nova_group": 4
+    },
+    {
+        "name": "Soy lecithin",
+        "nova_group": 4
+    },
+    {
+        "name": "Sodium benzoate",
+        "nova_group": 4
+    },
+    {
+        "name": "Potassium sorbate",
+        "nova_group": 4
+    },
+    {
+        "name": "Xanthan gum",
+        "nova_group": 4
+    },
+    {
+        "name": "Carrageenan",
+        "nova_group": 4
+    },
+    {
+        "name": "Polysorbate 80",
+        "nova_group": 4
+    },
+    {
+        "name": "Propylene glycol",
+        "nova_group": 4
+    },
+    {
+        "name": "Sodium nitrite",
+        "nova_group": 4
+    },
+    {
+        "name": "Sodium erythorbate",
+        "nova_group": 4
+    },
+    {
+        "name": "High-fructose corn syrup",
+        "nova_group": 4
+    },
+    {
+        "name": "Hydrogenated vegetable oil",
+        "nova_group": 4
+    },
+    {
+        "name": "Sorbitan monostearate",
+        "nova_group": 4
+    },
+    {
+        "name": "Sodium caseinate",
+        "nova_group": 4
+    },
+    {
+        "name": "Maltodextrin",
+        "nova_group": 4
+    },
+    {
+        "name": "Guar gum",
+        "nova_group": 4
+    },
+    {
+        "name": "Modified starch",
+        "nova_group": 4
+    },
+    {
+        "name": "Artificial flavors",
+        "nova_group": 4
+    },
+    {
+        "name": "Aspartame",
+        "nova_group": 4
+    },
+    {
+        "name": "Sucralose",
+        "nova_group": 4
+    },
+    {
+        "name": "Calcium propionate",
+        "nova_group": 4
+    },
+    {
+        "name": "Disodium phosphate",
+        "nova_group": 4
+    },
+    {
+        "name": "Butylated hydroxytoluene",
+        "nova_group": 4
+    },
+    {
+        "name": "Butylated hydroxyanisole",
+        "nova_group": 4
+    },
+    {
+        "name": "Citric acid",
+        "nova_group": 4
+    },
+    {
+        "name": "Sodium citrate",
+        "nova_group": 4
+    },
+    {
+        "name": "Titanium dioxide",
+        "nova_group": 4
+    },
+    {
+        "name": "Mono- and diglycerides",
+        "nova_group": 4
+    },
+    {
+        "name": "Dimethylpolysiloxane",
+        "nova_group": 4
+    },
+    {
+        "name": "Carboxymethyl cellulose",
+        "nova_group": 4
+    },
+    {
+        "name": "Acesulfame potassium",
+        "nova_group": 4
+    },
+    {
+        "name": "Sodium stearoyl lactylate",
+        "nova_group": 4
+    },
+    {
+        "name": "Polydextrose",
+        "nova_group": 4
+    },
+    {
+        "name": "Red 40",
+        "nova_group": 4
+    },
+    {
+        "name": "Blue 1",
+        "nova_group": 4
+    },
+    {
+        "name": "Yellow 5",
+        "nova_group": 4
+    },
+    {
+        "name": "Yellow 6",
+        "nova_group": 4
+    },
+    {
+        "name": "Sodium metabisulfite",
+        "nova_group": 4
+    },
+    {
+        "name": "Tertiary butylhydroquinone",
+        "nova_group": 4
+    },
+    {
+        "name": "Calcium disodium EDTA",
+        "nova_group": 4
+    },
+    {
+        "name": "Lecithins",
+        "nova_group": 4
+    },
+    {
+        "name": "Propyl gallate",
+        "nova_group": 4
+    },
+    {
+        "name": "Sodium tripolyphosphate",
+        "nova_group": 4
+    },
+    {
+        "name": "Sodium acid pyrophosphate",
+        "nova_group": 4
+    },
+    {
+        "name": "Calcium carbonate",
+        "nova_group": 4
+    },
+    {
+        "name": "Sodium aluminosilicate",
+        "nova_group": 4
+    },
+    {
+        "name": "Sodium carboxymethylcellulose",
+        "nova_group": 4
+    },
+    {
+        "name": "Sodium hexametaphosphate",
+        "nova_group": 4
+    },
+    {
+        "name": "Calcium sulfate",
+        "nova_group": 4
+    },
+    {
+        "name": "Ammonium sulfate",
+        "nova_group": 4
+    },
+    {
+        "name": "Ammonium bicarbonate",
+        "nova_group": 4
+    },
+    {
+        "name": "Azodicarbonamide",
+        "nova_group": 4
+    },
+    {
+        "name": "Ammonium chloride",
+        "nova_group": 4
+    },
+    {
+        "name": "Silicon dioxide",
+        "nova_group": 4
+    },
+    {
+        "name": "Sodium aluminum phosphate",
+        "nova_group": 4
+    },
+    {
+        "name": "Potassium bromate",
+        "nova_group": 4
+    },
+    {
+        "name": "Polyglycerol polyricinoleate",
+        "nova_group": 4
+    },
+    {
+        "name": "Sodium lactate",
+        "nova_group": 4
+    },
+    {
+        "name": "Sodium diacetate",
+        "nova_group": 4
+    },
+    {
+        "name": "Calcium lactate",
+        "nova_group": 4
+    },
+    {
+        "name": "Calcium stearate",
+        "nova_group": 4
+    },
+    {
+        "name": "Sodium ascorbate",
+        "nova_group": 4
+    },
+    {
+        "name": "Calcium silicate",
+        "nova_group": 4
+    },
+    {
+        "name": "Sodium ferrocyanide",
+        "nova_group": 4
+    },
+    {
+        "name": "Sodium saccharin",
+        "nova_group": 4
+    },
+    {
+        "name": "Neotame",
+        "nova_group": 4
+    },
+    {
+        "name": "Isomalt",
+        "nova_group": 4
+    },
+    {
+        "name": "Mannitol",
+        "nova_group": 4
+    },
+    {
+        "name": "Sodium bicarbonate",
+        "nova_group": 4
+    },
+    {
+        "name": "Calcium distearate",
+        "nova_group": 4
+    },
+    {
+        "name": "Sodium alginate",
+        "nova_group": 4
+    },
+    {
+        "name": "Stearic acid",
+        "nova_group": 4
+    },
+    {
+        "name": "Magnesium stearate",
+        "nova_group": 4
+    },
+    {
+        "name": "Ethyl vanillin",
+        "nova_group": 4
+    },
+    {
+        "name": "Sodium acetate",
+        "nova_group": 4
+    },
+    {
+        "name": "Glycerol ester of wood rosin",
+        "nova_group": 4
+    },
+    {
+        "name": "Sucrose acetate isobutyrate",
+        "nova_group": 4
+    }
+]
